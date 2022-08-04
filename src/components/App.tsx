@@ -1,9 +1,9 @@
 import React from 'react'
 
-import Input from './Input'
+import Header from './Header'
 
 function App() {
-  return <Input />
+  return <Header />
 }
 
 export default App
